@@ -12,7 +12,7 @@ export const siteConfig = {
     { name: "TikTok", url: "https://tiktok.com/@username", icon: "TikTok", show: true },
     { name: "Pinterest", url: "https://pinterest.com/username", icon: "Pinterest", show: true },
     { name: "Dribbble", url: "https://dribbble.com/username", icon: "Dribbble", show: true },
-    { name: "Behance", url: "https://behance.net/username", icon: "Behance", show: true },
+    { name: "Behance", url: "https://behance.net/username", icon: "Behance", show: false },
   ],
   movieStats: {
     moviesWatched: 124,
